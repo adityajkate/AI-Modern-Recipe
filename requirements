@@ -1,0 +1,7 @@
+PyQt6
+Pillow
+speechrecognition
+google-generativeai
+requests
+python-dotenv
+sqlite3  # Built-in, but listed for clarity
